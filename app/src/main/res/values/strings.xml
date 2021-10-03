@@ -16,7 +16,8 @@
     <string name="cancel_button">Cancel</string>
     <string name="ok_button">OK</string>
     <string name="settings_title">Settings</string>
+    <string name="add_new_note">Add a new note</string>
+    <string name="your_note">Your note</string>
 
-    <string name="hello_first_fragment">Hello first fragment</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
 </resources>
